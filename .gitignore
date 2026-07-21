@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing & Coverage
+coverage/
+*.lcov
+*.log
+
+# Production / Build
+dist/
+build/
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# OpenForge Output Dynamic Files
+backend/generated_projects/
+backend/generated_zips/
